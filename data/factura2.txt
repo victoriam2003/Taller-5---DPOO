@@ -1,0 +1,13 @@
+Cliente: Juan
+Dirección: Calle 123 #3-70
+----------------
+Combo Combo especial
+ Descuento: 0.07
+            21390
+Helado
+            8
+Hamburguesa    +Queso                2000    -Cebolla            17000
+----------------
+Precio Neto:  38398
+IVA:          7295
+Precio Total: 45693
